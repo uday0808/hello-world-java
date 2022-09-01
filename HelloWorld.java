@@ -3,6 +3,5 @@ public class HelloWorld {
     System.out.println("Hello world!");
     System.out.println("good evening");
     System.out.println("all of devops family!");
-    System.out.println("Hello world!");
-  }
-}
+  
+  }}
